@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheutringify",
+        "uuid": 3587478,
+        "checksum": "os5q67"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
